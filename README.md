@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @anishdpat
+  
 - www.anishpat.com
+  
 - 👀 I’m interested in Project/Product Management
-- 🌱 I’m currently learning Data Science, BI Analysis
+  
+- 🌱 I’m currently learning Data Science, Business Intelligence and Analytics
+  
 - 💞️ I’m looking to collaborate on Project Management
 
 
